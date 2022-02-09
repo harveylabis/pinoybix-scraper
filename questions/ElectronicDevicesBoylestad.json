@@ -1,0 +1,434 @@
+{
+  "1": {
+    "choices": [
+      "A. 0 mA",
+      "B. 4.3 mA",
+      "C. 5 mA",
+      "D. 10 mA"
+    ],
+    "question": "1. Use the information provided here to determine the value of IDQ.\n",
+    "key_answer": "Answer: Option B",
+    "img_url": "https://pinoybix.org/wp-content/uploads/2019/07/MCQ-in-Diode-Applications-Q1.png"
+  },
+  "2": {
+    "choices": [
+      "A. Ideal",
+      "B. Approximate equivalent",
+      "C. Exact mode using characteristic curve",
+      "D. None of the above",
+      "A. Si",
+      "B. Ge",
+      "C. Both Si and Ge",
+      "D. Neither Si nor Ge",
+      "A. 0 A",
+      "B. 4.76 mA",
+      "C. 5 mA",
+      "D. 5 A"
+    ],
+    "question": "4. Determine the current level if E = 15 V and R = 3 kΩ.\n",
+    "key_answer": "Answer: Option B",
+    "img_url": "https://pinoybix.org/wp-content/uploads/2019/07/MCQ-in-Diode-Applications-Q4.png"
+  },
+  "3": {
+    "choices": [
+      "A. 0 V",
+      "B. 0.09 V",
+      "C. 0.2 V",
+      "D. 0.44 V"
+    ],
+    "question": "5. Determine the voltage across the resistor.\n",
+    "key_answer": "Answer: Option A",
+    "img_url": "https://pinoybix.org/wp-content/uploads/2019/07/MCQ-in-Diode-Applications-Q5.png"
+  },
+  "4": {
+    "choices": [
+      "A. RL = 5 kΩ",
+      "B. RL = 5.5 kΩ",
+      "C. RL = 6 kΩ",
+      "D. None of the above"
+    ],
+    "question": "6. Determine the value of the load resistor.\n",
+    "key_answer": "Answer: Option B",
+    "img_url": "https://pinoybix.org/wp-content/uploads/2019/07/MCQ-in-Diode-Applications-Q6.png"
+  },
+  "5": {
+    "choices": [
+      "A. 0 mA",
+      "B. 1.893 mA",
+      "C. 2.036 mA",
+      "D. 2.143 mA"
+    ],
+    "question": "7. Determine ID.\n",
+    "key_answer": "Answer: Option B",
+    "img_url": "https://pinoybix.org/wp-content/uploads/2019/07/MCQ-in-Diode-Applications-Q7.png"
+  },
+  "6": {
+    "choices": [
+      "A. 3.201 V",
+      "B. 0 V",
+      "C. 4.3 V",
+      "D. 1.371 V"
+    ],
+    "question": "8. Determine V2.\n",
+    "key_answer": "Answer: Option D",
+    "img_url": "https://pinoybix.org/wp-content/uploads/2019/07/MCQ-in-Diode-Applications-Q8.png"
+  },
+  "7": {
+    "choices": [
+      "A. off",
+      "B. on",
+      "C. neutral",
+      "D. quiescent",
+      "A. 5 A",
+      "B. 0 A",
+      "C. 1 A",
+      "D. ∞",
+      "A. 5 V",
+      "B. 0 V",
+      "C. 1 V",
+      "D. ∞",
+      "A. 29.40 mA",
+      "B. 30.30 mA",
+      "C. 14.70 mA",
+      "D. None of the above"
+    ],
+    "question": "12. Determine ID2.\n",
+    "key_answer": "Answer: Option C",
+    "img_url": "https://pinoybix.org/wp-content/uploads/2019/07/MCQ-in-Diode-Applications-Q12.png"
+  },
+  "8": {
+    "choices": [
+      "A. 0 mA",
+      "B. 29.40 mA",
+      "C. 14.70 mA",
+      "D. 14.09 mA"
+    ],
+    "question": "13. Determine ID1.\n",
+    "key_answer": "Answer: Option A",
+    "img_url": "https://pinoybix.org/wp-content/uploads/2019/07/MCQ-in-Diode-Applications-Q13.png"
+  },
+  "9": {
+    "choices": [
+      "A. 6.061 mA",
+      "B. 0.7 mA",
+      "C. 3.393 mA",
+      "D. 3.571 mA"
+    ],
+    "question": "14. Determine ID2.\n",
+    "key_answer": "Answer: Option C",
+    "img_url": "https://pinoybix.org/wp-content/uploads/2019/07/MCQ-in-Diode-Applications-Q14.png"
+  },
+  "10": {
+    "choices": [
+      "A. 4.65 mA",
+      "B. 9.3 mA",
+      "C. 18.6 mA",
+      "D. 0.7 mA"
+    ],
+    "question": "15. Determine the current through each diode if E1 = E2 = 0 V.\n",
+    "key_answer": "Answer: Option A",
+    "img_url": "https://pinoybix.org/wp-content/uploads/2019/07/MCQ-in-Diode-Applications-Q15.png"
+  },
+  "11": {
+    "choices": [
+      "A. 9.3 V",
+      "B. 10 V",
+      "C. –10 V",
+      "D. 0 V"
+    ],
+    "question": "16. Determine Vo if E1 = E2 = 10 V.\n",
+    "key_answer": "Answer: Option B",
+    "img_url": "https://pinoybix.org/wp-content/uploads/2019/07/MCQ-in-Diode-Applications-Q16.png"
+  },
+  "12": {
+    "choices": [
+      "A. Positive logic AND gate",
+      "B. Positive logic OR gate",
+      "C. Negative logic AND gate",
+      "D. Negative logic OR gate"
+    ],
+    "question": "17. What is the logic function of this circuit?\n",
+    "key_answer": "Answer: Option B",
+    "img_url": "https://pinoybix.org/wp-content/uploads/2019/07/MCQ-in-Diode-Applications-Q17.png"
+  },
+  "13": {
+    "choices": [
+      "A. Positive logic AND gate",
+      "B. Positive logic OR gate",
+      "C. Negative logic AND gate",
+      "D. Negative logic OR gate"
+    ],
+    "question": "18. What is the logic function of this circuit?\n",
+    "key_answer": "Answer: Option A",
+    "img_url": "https://pinoybix.org/wp-content/uploads/2019/07/MCQ-in-Diode-Applications-Q18.png"
+  },
+  "14": {
+    "choices": [
+      "A. Full-wave rectifier",
+      "B. Half-wave rectifier",
+      "C. Clipper",
+      "D. Clamper"
+    ],
+    "question": "19. What best describes the circuit?\n",
+    "key_answer": "Answer: Option B",
+    "img_url": "https://pinoybix.org/wp-content/uploads/2019/07/MCQ-in-Diode-Applications-Q19.png"
+  },
+  "15": {
+    "choices": [
+      "A. 2.325 mA",
+      "B. 5 mA",
+      "C. 1.25 mA",
+      "D. 0 mA"
+    ],
+    "question": "20. Determine the peak value of the current through the load resistor.\n",
+    "key_answer": "Answer: Option A",
+    "img_url": "https://pinoybix.org/wp-content/uploads/2019/07/MCQ-in-Diode-Applications-Q20.png"
+  },
+  "16": {
+    "choices": [
+      "A. 2.5 mA",
+      "B. 0 mA",
+      "C. 1.37 mA",
+      "D. 1.479 mA"
+    ],
+    "question": "21. Determine the average value of the current through the load resistor.\n",
+    "key_answer": "Answer: Option D",
+    "img_url": "https://pinoybix.org/wp-content/uploads/2019/07/MCQ-in-Diode-Applications-Q21.png"
+  },
+  "17": {
+    "choices": [
+      "A. Full-wave rectifier",
+      "B. Half-wave rectifier",
+      "C. Clipper",
+      "D. Clamper"
+    ],
+    "question": "22. What best describes the circuit?\n",
+    "key_answer": "Answer: Option A",
+    "img_url": "https://pinoybix.org/wp-content/uploads/2019/07/MCQ-in-Diode-Applications-Q22.png"
+  },
+  "18": {
+    "choices": [
+      "A. Series",
+      "B. Parallel",
+      "C. Series and parallel",
+      "D. None of the above",
+      "A. 25 V",
+      "B. 15 V",
+      "C. –25 V",
+      "D. –15 V"
+    ],
+    "question": "24. Determine the peak value of the output waveform.\n",
+    "key_answer": "Answer: Option B",
+    "img_url": "https://pinoybix.org/wp-content/uploads/2019/07/MCQ-in-Diode-Applications-Q24.png"
+  },
+  "19": {
+    "choices": [
+      "A. 16 V, –4 V",
+      "B. 16 V, 4 V",
+      "C. –16 V, 4 V",
+      "D. –16 V, –4 V"
+    ],
+    "question": "25. Determine the peak for both half cycles of the output waveform.\n",
+    "key_answer": "Answer: Option A",
+    "img_url": "https://pinoybix.org/wp-content/uploads/2019/07/MCQ-in-Diode-Applications-Q25.png"
+  },
+  "20": {
+    "choices": [
+      "A. Full-wave rectifier",
+      "B. Half-wave rectifier",
+      "C. Clipper",
+      "D. Clamper"
+    ],
+    "question": "26. What best describes the circuit?\n",
+    "key_answer": "Answer: Option C",
+    "img_url": "https://pinoybix.org/wp-content/uploads/2019/07/MCQ-in-Diode-Applications-Q26.png"
+  },
+  "21": {
+    "choices": [
+      "A. 5 ms",
+      "B. 25 ms",
+      "C. 2.5 ms",
+      "D. 50 ms",
+      "A. 2 mA, 0 mA",
+      "B. 4 mA, 2 mA",
+      "C. 2 mA, 2 mA",
+      "D. 2 mA, 4 mA"
+    ],
+    "question": "28. Calculate IL and IZ.\n",
+    "key_answer": "Answer: Option D",
+    "img_url": "https://pinoybix.org/wp-content/uploads/2019/07/MCQ-in-Diode-Applications-Q28.png"
+  },
+  "22": {
+    "choices": [
+      "A. 0 mA",
+      "B. Undefined",
+      "C. Equal to IRL",
+      "D. IZM"
+    ],
+    "question": "29. With this Zener diode in its “on state,” what is the level of IZ for the maximum load resistance?\n",
+    "key_answer": "Answer: Option D",
+    "img_url": "https://pinoybix.org/wp-content/uploads/2019/07/MCQ-in-Diode-Applications-Q29.png"
+  },
+  "23": {
+    "choices": [
+      "A. VZ",
+      "B. IZ",
+      "C. IZM",
+      "D. None of the above",
+      "A. VZ",
+      "B. IZM",
+      "C. IZ",
+      "D. None of the above"
+    ],
+    "question": "31. Which element dictates the maximum level of source voltage?\n",
+    "key_answer": "Answer: Option B",
+    "img_url": "https://pinoybix.org/wp-content/uploads/2019/07/MCQ-in-Diode-Applications-Q31.png"
+  },
+  "24": {
+    "choices": [
+      "A. Vm",
+      "B. 2 Vm",
+      "C. 0.5 Vm",
+      "D. 0.25 Vm",
+      "A. –10 V",
+      "B. –20 V",
+      "C. 10 V",
+      "D. 20 V"
+    ],
+    "question": "33. What is the voltage measured from the negative terminal of C4 to the negative terminal of the transformer?\n",
+    "key_answer": "Answer: Option B",
+    "img_url": "https://pinoybix.org/wp-content/uploads/2019/07/MCQ-in-Diode-Applications-Q33.png"
+  },
+  "25": {
+    "choices": [
+      "A. True",
+      "B. False",
+      "A. True",
+      "B. False",
+      "A. point of operation",
+      "B. load-line analysis",
+      "C. characteristic curve",
+      "D. forward bias",
+      "A. type of the diode used",
+      "B. characteristic curve",
+      "C. load resistor",
+      "D. source voltage",
+      "A. quiescent point, device",
+      "B. device, network",
+      "C. network, device",
+      "D. None of the above",
+      "A. ac network",
+      "B. dc network",
+      "C. ac and dc network",
+      "D. None of the above",
+      "A. load resistor",
+      "B. diode",
+      "C. source voltage and the load resistor",
+      "D. source voltage",
+      "A. larger than",
+      "B. smaller than",
+      "C. the same as",
+      "D. None of the above",
+      "A. increase",
+      "B. decrease",
+      "C. remain unchanged",
+      "D. are unpredictable",
+      "A. a short circuit",
+      "B. a series circuit",
+      "C. a parallel circuit",
+      "D. an open circuit",
+      "A. off",
+      "B. reverse bias",
+      "C. on",
+      "D. transition",
+      "A. open",
+      "B. short",
+      "C. neither short nor open",
+      "D. unknown",
+      "A. approximate model",
+      "B. ideal model",
+      "C. exact model",
+      "D. None of the above",
+      "A. rectifier",
+      "B. full-wave rectifier",
+      "C. half-wave rectifier",
+      "D. filtering",
+      "A. smaller than",
+      "B. larger than",
+      "C. the same as",
+      "D. None of the above",
+      "A. 0.318",
+      "B. 0.636",
+      "C. 2",
+      "D. 1",
+      "A. 0.3, 0",
+      "B. 0, 0",
+      "C. 0.7, 0",
+      "D. 0.7, 0.3",
+      "A. a capacitor",
+      "B. a diode",
+      "C. a resistive element",
+      "D. All of the above",
+      "A. 1",
+      "B. 2",
+      "C. 0.5",
+      "D. 0",
+      "A. greater than VZ",
+      "B. zero",
+      "C. less than VZ but greater than zero",
+      "D. None of the above",
+      "A. larger than",
+      "B. smaller than",
+      "C. the same as",
+      "D. None of the above"
+    ],
+    "question": "19. Once the Zener diode is in the “on” state, VZ is always _______ VL.\n",
+    "key_answer": "Answer: Option C",
+    "img_url": "https://pinoybix.org/wp-content/uploads/2019/07/MCQ-in-Diode-Applications-Q19-B.png"
+  },
+  "26": {
+    "choices": [
+      "A. generate voltage",
+      "B. consume power",
+      "C. maintain a fixed voltage across the load resistor",
+      "D. protect the load",
+      "A. decrease, increase",
+      "B. increase, decrease",
+      "C. decrease, keep the same level of",
+      "D. increase, keep the same level of"
+    ],
+    "question": "21. With the Zener diode in the “on” state, increasing IL will _____ IZ and _____IR.\n",
+    "key_answer": "Answer: Option C",
+    "img_url": "https://pinoybix.org/wp-content/uploads/2019/07/MCQ-in-Diode-Applications-Q21-B.png"
+  },
+  "27": {
+    "choices": [
+      "A. very large, low",
+      "B. very large, very large",
+      "C. low, low",
+      "D. low, very large",
+      "A. negative, 2Vm, positive",
+      "B. positive, Vm, negative",
+      "C. positive, 2Vm, negative",
+      "D. negative, Vm, positive"
+    ],
+    "question": "23. In a half-wave voltage doubler, the voltage across output capacitor C2 drops across the load during the _____ half cycle and the capacitor is recharged up to _____ during the _____ half cycle.\n",
+    "key_answer": "Answer: Option C",
+    "img_url": "https://pinoybix.org/wp-content/uploads/2019/07/MCQ-in-Diode-Applications-Q23-B.png"
+  },
+  "28": {
+    "choices": [
+      "A. better",
+      "B. poorer",
+      "C. the same",
+      "D. None of the above",
+      "A. odd, even",
+      "B. even, odd",
+      "C. odd, odd",
+      "D. even, even"
+    ],
+    "question": "25. In this voltage multiplier, measuring from the top of the transformer winding will provide ________ multiples of Vm at the output, whereas measuring the output voltage from the bottom of the transformer will provide ________ multiples of the peak Vm.\n",
+    "key_answer": "Answer: Option A",
+    "img_url": "https://pinoybix.org/wp-content/uploads/2019/07/MCQ-in-Diode-Applications-Q25-B.png"
+  }
+}
