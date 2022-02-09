@@ -1,5 +1,5 @@
 # pinoybix-scraper
-A script to scrape the questions and answers in PinoyBix saved as a json file. 
+A script to scrape the questions and answers in [PinoyBix](https://pinoybix.org/) saved as a json file. 
 By using additional scripts, this can be used to generate a lot of review questions.
 
 ## Folder Description:
